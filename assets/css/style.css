@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #070714;
+}
+h1 {
+    color: goldenrod;
+}
+.grid-container {
+    display: grid;
+    justify-content: center;
+}
+img.card-img-top {
+    width: 100%;
+}
+.card {
+    border: solid 2px goldenrod;
+    padding-bottom: 1%;
+}
+a.btn.btn-primary {
+    color: aliceblue;
+}
+a.btn.btn-primary :hover {
+    color: aliceblue;
+}
